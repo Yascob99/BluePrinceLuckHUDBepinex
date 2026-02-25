@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BluePrinceLuckHUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd426daf0a43341e8535b773d26e0bb4f5d03a30")]
 [assembly: System.Reflection.AssemblyProductAttribute("A Luck Hud for Blue Prince")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BluePrinceLuckHUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
