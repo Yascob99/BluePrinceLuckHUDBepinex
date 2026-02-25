@@ -51,10 +51,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "BepInEx.PluginInfoProps": {
-              "target": "Package",
-              "version": "[2.*, )"
-            },
             "BepInEx.Unity.IL2CPP": {
               "include": "Compile",
               "target": "Package",
